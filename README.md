@@ -1,5 +1,6 @@
 # Asynchronous_FIFO
-Two different clocks Clk1 and Clk2 are used for writing to and reading from the FIFO. Verilog code 
+
+ Two different clocks Clk1 and Clk2 are used for writing to and reading from the FIFO. Verilog code 
 should take care of reading and writing from and to FIFO simultaneously, if it occurs. 
 Testbench verifies the complete functionality of a 16-byte FIFO (Width=1Byte). Clk1 and Clk2 are 
 of frequency 10MHz and 25MHz respectively. 
