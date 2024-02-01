@@ -1,6 +1,7 @@
 # Asynchronous_FIFO
 
-      ![Screenshot 2024-02-01 204240](https://github.com/Hitesh-K18/Asynchronous_FIFO/assets/156711207/a465a48a-6874-4a7b-b141-3f7f37b40b24)
+     ![Uploading Screenshot 2024-02-01 204240.png…]()
+
       
 Two different clocks Clk1 and Clk2 are used for writing to and reading from the FIFO. 
 Verilog code takes care of reading and writing from and to FIFO simultaneously, if it occurs. 
