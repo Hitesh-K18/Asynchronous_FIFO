@@ -1,6 +1,7 @@
 # Asynchronous_FIFO
 
-     ![Uploading Screenshot 2024-02-01 204240.png…]()
+     ![Screenshot 2024-02-01 204240](https://github.com/Hitesh-K18/Asynchronous_FIFO/assets/156711207/89ad7d9c-a05b-434f-942f-e007023de6cb)
+
 
       
 Two different clocks Clk1 and Clk2 are used for writing to and reading from the FIFO. 
